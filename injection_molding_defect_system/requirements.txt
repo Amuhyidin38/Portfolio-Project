@@ -1,0 +1,9 @@
+tensorflow==2.13.0  # Or PyTorch for CV models
+opencv-python==4.8.0
+pillow==10.0.0
+pandas==2.0.3
+numpy==1.24.3
+scikit-learn==1.3.0
+prophet==1.1.5  # For time-series anomaly detection
+streamlit==1.25.0  # For demo UI
+matplotlib==3.7.2
